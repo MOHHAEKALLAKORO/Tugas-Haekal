@@ -1,6 +1,12 @@
 + Silahkan Kalian Isi Nama, Umur Dan Tempat Tinggal
 
+
 + Nama: Yudi
 + Umur: 21
 + Tempat Tinggal: Sipayo
+
++ Nama: Andre Polamolo
++ Umur: 20
++ Tempat Tinggal: Kwandang
+
 
